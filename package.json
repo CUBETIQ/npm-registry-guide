@@ -1,0 +1,20 @@
+{
+  "name": "@cubetiq/npm-registry-guide",
+  "version": "1.0.0",
+  "description": "CUBETIQ NPM Registry Guide for Team Members in CUBETIQ Solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.cubetiqs.com/CUBETIQ/npm-registry-guide.git"
+  },
+  "keywords": [
+    "NPM",
+    "registry",
+    "CUBETIQ"
+  ],
+  "author": "Sambo Chea <sombochea@cubetiqs.com>",
+  "license": "ISC"
+}
